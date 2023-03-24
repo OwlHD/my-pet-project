@@ -1,0 +1,45 @@
+/* F2C14E - Saffron */ 
+/* F78154 - Coral */
+/* EFE9F4 - Magnolia */
+/* 57A773 - Jade */
+/* 153243 - Prussian Blue */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #EFE9F4;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #153243;
+    height: 2.5rem;
+    box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.2);
+}
+
+img {
+    margin: 2rem 0rem 2rem 0rem;
+    width: 35rem;
+    height: 35rem;
+    border-radius: 100%;
+    box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.2);
+}
+
+img:hover {
+    margin: 2rem 0rem 2rem 0rem;
+    width: 38rem;
+    height: 38rem;
+    border-radius: 100%;
+    box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.2);
+}
+
+#logo {
+    color:white;
+    /* margin: 4rem 4rem 4rem 4rem; */
+    padding: 0.5rem 1.5rem 0rem 1.5rem;
+}
+
+.image-container {
+text-align: center;
+}
